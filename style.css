@@ -1,0 +1,26 @@
+h1{
+    color:black
+}
+
+#headerNavigation{
+    display: flex;
+    justify-content: flex-end;
+}
+#headerNavigation2{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.banner {
+    background-color: white;
+    height: 500px;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    row-gap: 10px;
+    column-gap: 10px;
+  }
+
